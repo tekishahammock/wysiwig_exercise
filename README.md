@@ -11,5 +11,5 @@ Nashville Software School Week #4 exercise testing student understanding of Java
 - Locate the server host in your browser
 - Enjoy!
 
-##### Licenses:
+##### License:
 [MIT License](https://github.com/tekishahammock/wysiwig_exercise/blob/master/LICENSE)
