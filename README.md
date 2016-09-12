@@ -5,7 +5,7 @@ Nashville Software School Week #4 exercise testing student understanding of Java
 ##### Here is the live demo:
 [Famous Women of Yesteryear!](http://tekishahammock.github.io/wysiwyg_exercise/)
 
-![static image of wysiwyg website](https://github.com/tekishahammock/wysiwyg/raw/master/img/wysiwyg-main.jpg)
+![static image of wysiwyg website](https://github.com/tekishahammock/wysiwyg_exercise/raw/master/img/wysiwyg-main.jpg)
 
 ##### Installation Instructions:
 
